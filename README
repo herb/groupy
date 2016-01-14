@@ -1,6 +1,8 @@
 groupy
 ======
 
+|Build Status|
+
 Description
 ~~~~~~~~~~~
 
@@ -30,3 +32,5 @@ easy as:
 
     pip install groupy
 
+.. |Build Status| image:: https://travis-ci.org/dropbox/groupy.png?branch=master
+   :target: https://travis-ci.org/dropbox/groupy

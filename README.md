@@ -1,5 +1,7 @@
 # groupy
 
+[![Build Status](https://travis-ci.org/dropbox/groupy.png?branch=master)](https://travis-ci.org/dropbox/groupy)
+
 ### Description
 
 Python client library for interfacing with the Grouper API server.
